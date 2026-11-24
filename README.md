@@ -14,11 +14,11 @@ At AFAS I work on software used by a large number of businesses, across the AFAS
 
 [![Get it on Chrome](https://img.shields.io/badge/Chrome-Web%20Store-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cor3-companion/klgheffipeaecholkjggmklgbmbnbfbi)
 [![Firefox users](https://img.shields.io/amo/users/cor3-companion?logo=firefoxbrowser&logoColor=white&label=Firefox%20users&color=FF7139)](https://addons.mozilla.org/firefox/addon/cor3-companion/)
-[![Firefox rating](https://img.shields.io/amo/rating/cor3-companion?logo=firefoxbrowser&logoColor=white&label=rating&color=FF7139)](https://addons.mozilla.org/firefox/addon/cor3-companion/)
 
-**d0dge**: a minimalist monochrome survival arcade game. A single glyph dances through an evolving field of dots, and every stage tests how long you can stay one step ahead.
+**[d0dge](https://d0dge.webvorming.nl)**: a minimalist monochrome survival arcade game. A single glyph dances through an evolving field of dots, and every stage tests how long you can stay one step ahead.
 
-[![Play d0dge](https://img.shields.io/badge/Play-d0dge-000000?logo=googlechrome&logoColor=white)](https://d0dge.webvorming.nl)
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.webvorming.d0dge)
+![App Store coming soon](https://img.shields.io/badge/App%20Store-coming%20soon-lightgrey?logo=apple&logoColor=white)
 
 **[flutter_cloud_preferences](https://github.com/nvanderwaal/flutter_cloud_preferences)**: key-value preferences for Flutter that survive reinstalls and new devices. It has the same API as shared_preferences, backed by iCloud on iOS/macOS and Auto Backup on Android.
 
